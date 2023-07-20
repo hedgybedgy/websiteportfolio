@@ -1,6 +1,6 @@
 ## NASA L'SPACE Mission Concept Academy
 A workforce development program held by NASA in conjunction with ASU. My team of 15 developed a mission proposal of identifying lunar oxygen deposits, and documented a comprehensive overview in a final 78-page PDR. We presented this in a final board of review to pass.
-- ![600x200](websiteportfolio/public/assets/NASABanner.png)
+- ![600x200](../public/assets/NASABanner.png)
 - Tags: Main
 - Badges:
   - Research [yellow]
@@ -11,7 +11,7 @@ A workforce development program held by NASA in conjunction with ASU. My team of
 
 ## Parkinson's Detection Device
 Led a team of 6 to develop an Arduino device that uses accelerometer and gyroscope data with machine learning to help detect Parkinson's Disease early. Personally worked on website, database functionality, arduino programming, and AI model.
-- ![600x200](websiteportfolio/public/assets/BMEDBanner.png)
+- ![600x200](../public/assets/BMEDBanner.png)
 - Tags: Main
 - Badges:
   - Project Management [red]
@@ -24,7 +24,7 @@ Led a team of 6 to develop an Arduino device that uses accelerometer and gyrosco
 
 ## HackGT 9
 Our 1st-place Hackathon submission, where I led a team of 4 in making a JavaScript webscraper to host wildlife live-streams found around the web on our website.
-- ![600x200](websiteportfolio/public/assets/HACKBanner.jpg)
+- ![600x200](../public/assets/HACKBanner.jpg)
 - Tags: Main
 - Badges:
   - Programming [cyan]
@@ -35,7 +35,7 @@ Our 1st-place Hackathon submission, where I led a team of 4 in making a JavaScri
 
 ## COVID Prediction AI
 For a project in high school, I used Python to create an AI to be able to predict COVID cases and deaths per country and wrote a 3800 paper on it.
-- ![600x200](websiteportfolio/public/assets/COVIDBanner.webp)
+- ![600x200](../public/assets/COVIDBanner.webp)
 - Tags: Main
 - Badges:
   - Programming [cyan]
