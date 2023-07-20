@@ -1,6 +1,6 @@
 ## Web Wizards Inc.
 - *Founder & Sole Developer* | May '23 - Present
-- ![WWLogo](../../assets/WWLogo.png)
+- ![WWLogo](websiteportfolio/public/assets/WWLogo.png)
 - Tags: Web Wizards Inc.
 - Badges:
   - Startup [green]
@@ -12,7 +12,7 @@
 
 ## The WEAR Lab
 - *Research Assistant* | Feb '22 - Aug '22
-- ![WEARLogo](../../assets/WEARLogo.png)
+- ![WEARLogo](websiteportfolio/public/assets/WEARLogo.png)
 - Tags: The WEAR Lab
 - Badges:
   - Research [yellow]
