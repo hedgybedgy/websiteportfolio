@@ -18,7 +18,7 @@ const TagsArray = (file) => {
   const [Tags, setTags] = useState([]);
 
   useEffect(() => {
-    fetch(`websiteportfolio/content/${file}.md`)
+    fetch(`/websiteportfolio/content/${file}.md`)
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch markdown content");
