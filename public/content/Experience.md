@@ -1,6 +1,6 @@
 ## Spectaire
 - *Test Engineering Intern* | Jun '24 - Aug '24
-- ![SpecLogo](websiteportfolio/assets/SpecLogo.png)
+- ![SpecLogo](/websiteportfolio/assets/SpecLogo.png)
 - Tags: Spectaire
 - Badges:
   - Startup [green]
