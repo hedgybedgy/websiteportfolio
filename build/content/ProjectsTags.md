@@ -1,2 +1,0 @@
-Solo Research
-Extracurricular
