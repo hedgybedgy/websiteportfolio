@@ -1,3 +1,34 @@
+## Arthrex
+- *Quality Engineer I* | Jun '25 - Present
+- ![ArthLogo](/websiteportfolio/assets/ArthLogo.png)
+- Tags: Arthrex
+- Badges:
+  - DFMEA [green]
+  - PFMEA [cyan]
+  - Root Cause Analysis [pink]
+  - V&V [red]
+  - Solidworks [orange]
+  - GD&T [yellow]
+  - IQ, OQ, PQ [purple]
+  - Six Sigma [teal]
+- List Items:
+  - Promoted from intern to support the Electrosurgical Generators, Camera Consoles, and Tablet/Touch Screen Components in the Receiving Inspection, Global Service and Repair, and Manufacturing departments.
+  - Built hands-on knowledge of electrical and mechanical components from a manufacturing and design standpoint along with regulatory compliance.
+  - Worked with suppliers in handling nonconformances and implementing design changes in existing products.
+  - Supported site internal and external audits and international product line setup in China.
+
+## The Coskun Lab
+- *Research Assistant* | Jan '25 - May '25
+- ![GTLogo](/websiteportfolio/assets/GTLogo.png)
+- Tags: The Coskun Lab
+- Badges:
+  - Research [yellow]
+  - Machine Learning [cyan]
+  - School [orange]
+- List Items:
+  - Supported research into computer vision detection and visualization of disease progression.
+  - Prepared and imaged biopsy slides, along with labeling structures found in the tissue for ML model training.
+
 ## Spectaire
 - *Test Engineering Intern* | Jun '24 - Aug '24
 - ![SpecLogo](/websiteportfolio/assets/SpecLogo.png)

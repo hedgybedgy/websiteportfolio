@@ -25,15 +25,14 @@ My team built a phone-based augmented reality app in Unreal Engine 4 that visual
 - Buttons:
   - Github Repo [https://github.com/maximusmith529/Sea-the-Future]
 
-## Trash Trek Challenge
-A project where I led a team of 10 to win an FLL competition, personally researching a solution to clean orbital debris and programming our robot’s tasks on the board. We also collaborated with NASA scientists at JPL for validation of design, concluding by passing a board of review at JPL offices.
+## Fortune Frame
+An interactive fortune telling installation. Users insert a coin and receive a fortune on the display behind the frame. Constructed with plywood and cloth, with the technology behind it being an Arduino running a live TouchDesigner script.
 - Tags: Extracurricular
 - Badges:
-  - Research [yellow]
-  - Extracurricular [purple]
   - Programming [cyan]
+  - Woodworking [orange]
 - Buttons:
-  - Final Presentation [https://github.com/hedgybedgy/docs/blob/main/FLL%20Trash%20Trek%202015.pdf]
+  - LinkedIn Project [https://www.linkedin.com/in/mahatrum/details/projects/1614783658/multiple-media-viewer?profileId=ACoAADFF-NoB-AGVFP0zJ6jOHTwRtZH3T9Y6he0&treasuryMediaId=1734634088470&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BoBP4wDt9QxqES5Rghhbtpw%3D%3D]
 
 ## LaTeX Resume
 Learned LaTeX to better control the formatting my resume, and for future use in academic settings.

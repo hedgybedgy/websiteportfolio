@@ -1,3 +1,15 @@
+## NASA-Sponsored Senior Design Capstone
+Senior design capstone project where my team and I spent 10 months researching and interviewing various spaceflight contributors from ECLSS research heads and astronauts to develop a problem statement and solution: an injectable system to deliver medication to astronauts through their space suit without damaging integrity. I served as the team project manager to coordinate resources to achieve deadlines while also contributing to the overall system design. After the semester, we visited Glenn Research Center to discuss our findings with the team.
+- ![600x200](/websiteportfolio/assets/AstroLogo.jpg)
+- Tags: Main
+- Badges:
+  - Research [yellow]
+  - Internship [blue]
+  - Project Management [red]
+  - System Design [cyan]
+- Buttons:
+  - Capstone Page [https://expo.gatech.edu/prod1/portal/portal.jsp?c=17462&p=413142918&g=413665329&id=417142783]
+
 ## NASA L'SPACE Mission Concept Academy
 A workforce development program held by NASA in conjunction with ASU. My team of 15 developed a mission proposal of identifying lunar oxygen deposits, and documented a comprehensive overview in a final 78-page PDR. We presented this in a final board of review to pass.
 - ![600x200](/websiteportfolio/assets/NASABanner.png)
@@ -7,7 +19,7 @@ A workforce development program held by NASA in conjunction with ASU. My team of
   - Internship [blue]
   - Project Management [red]
 - Buttons:
-  - Document [https://docs.google.com/document/d/1oNU_pK4tI29XctDfUYI2tSLWMW8ROjx6OrQ9DUolbWQ/edit?usp=sharing]
+  - Final Report [https://docs.google.com/document/d/1oNU_pK4tI29XctDfUYI2tSLWMW8ROjx6OrQ9DUolbWQ/edit?usp=sharing]
 
 ## AI EMG Lie Detector
 Created and verified an AI lie detection model capable of detecting lies hidden within stories at a significantly higher rate than humans, given facial EMG data.
@@ -28,6 +40,8 @@ Won first place overall in Occupational Therapy track by developing "The Cube", 
 - Badges:
   - School [orange]
   - Project Management [red]
+- Buttons:
+  - Hackathon Homepage [https://www.medtechhack.com/home]
 
 ## Parkinson's Detection Device
 Led a team of 6 to develop an Arduino device that uses accelerometer and gyroscope data with machine learning to help detect Parkinson's Disease early. Personally worked on website, database functionality, arduino programming, and AI model.
@@ -63,4 +77,17 @@ For a project in high school, I used Python to create an AI to be able to predic
   - School [orange]
   - Machine Learning[pink]
 - Buttons:
-  - Document [https://github.com/hedgybedgy/docs/blob/main/IB_CS_EE_-_uploaded.pdf]
+  - Final Report [https://github.com/hedgybedgy/docs/blob/main/IB_CS_EE_-_uploaded.pdf]
+
+## FIRST Lego League 2015
+A project where I led a team of 10 to win an FLL competition, personally researching and leading the development of a solution to clean orbital debris for the project team while also programming a Lego robot’s tasks on a board for the programming part of the competition. We heavily collaborated with NASA scientists at JPL for verification and validation of our design, concluding by passing a board of review at JPL offices before submitting our work to the regional competition where we subsequently won.
+- ![600x200](/websiteportfolio/assets/FLLogo.png)
+- Tags: Main
+- Badges:
+  - Research [yellow]
+  - Programming [cyan]
+  - Project Management [red]
+  - V&V [pink]
+  - Extracurricular [purple]
+- Buttons:
+  - Final Presentation [https://github.com/hedgybedgy/docs/blob/main/FLL%20Trash%20Trek%202015.pdf]

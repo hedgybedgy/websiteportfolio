@@ -7,7 +7,7 @@
 - That means I solve problems.
 
 ## About
-I am a senior honors student at the Georgia Institute of Technology! I'm studying in the Biomedical Engineering BS/MS program and minoring in Industrial Design, with an extremely strong foundation (over a decade!) in Computer Science.
+I am a Quality Engineer I at Arthrex! I graduated with an undergraduate degree in Biomedical Engineering at Georgia Tech and minored in Industrial Design, with an extremely strong foundation (over a decade!) in Computer Science. My career goal is to research and develop advanced life support systems for space exploration.
 
 ## Contact
 I'm currently looking for new opportunities. If you're interested in contacting me, shoot me an email and I'll get back to you as soon as I can!
