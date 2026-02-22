@@ -68,7 +68,7 @@ Our 1st-place Hackathon submission, where I led a team of 4 in making a JavaScri
   - Devpost [https://devpost.com/software/flipper-z2u5g4]
 
 ## COVID Prediction AI
-For a project in high school, I used Python to create an AI to be able to predict COVID cases and deaths per country and wrote a 3800 paper on it.
+For my IB Extended Essay in high school, I used Python to create an AI to be able to predict COVID cases and deaths per country and wrote a 3800 word paper on it.
 - ![600x200](/websiteportfolio/assets/COVIDBanner.webp)
 - Tags: Main
 - Badges:
